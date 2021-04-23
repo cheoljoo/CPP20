@@ -1,0 +1,8 @@
+project1 : 결과 나오게 풀었습니다. 
+project2 : 결과 나오게 풀었습니다. 
+project3 : 결과 나오게 풀었습니다. 
+project4 :
+- 강사님 처음에는 ramdom_access_iterator<Drived> 를 사용하려 했는데 , 
+  category만 using으로 선언되어져있어서 뭔가 고쳐야 하는데 모르겟브니다.
+  그래서, 그냥 ramdom이 경우만 c()함수를 선언하여 이 함수가 불리는 경우와 불리지 않는 경우로 구분하였습니다.
+- 정확한 답 공유 부탁드립니다. 
