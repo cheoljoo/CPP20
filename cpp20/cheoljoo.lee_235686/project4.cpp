@@ -40,3 +40,6 @@ int main()
 	b.foo(); // error
 	b.goo(); // ok
 }
+
+
+// Instructor comment 수고하셨습니다. void foo() requires std::is_same_v<typename Derived::category,std::random_access_iterator_tag> {} 로 하시면 됩니다. 
